@@ -1,3 +1,2 @@
 # FIFA-19-PLAYERS-ANALYSIS-SAS-Enterprise-miner-
-1. Is the potential of a player dependent on his age or not.
-2. To create the best model for predicting the potential of a player based on several attributes.
+I have implemented a prediction system to predict if a player’s performance is dependent on the age. It is evident that age of a player almost effects 50% of their performance. Out of all the models Decision Tree stood out with best performance with least Average Squared error of 2.7071. It helps whether to consider a player’s age in a critical situation and to predict the potential player which can help team to deliver a better performance.
